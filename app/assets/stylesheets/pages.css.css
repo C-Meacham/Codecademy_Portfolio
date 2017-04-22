@@ -2,11 +2,13 @@
   list-style: none;
   padding-top: 15px;
 }
+
 li {
   display: inline;
   padding: 20px;
   float: right;
 }
+
 .nav.navbar {
-  background-color: grey
+  background-color: grey;
 }
