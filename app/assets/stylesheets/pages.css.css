@@ -4,15 +4,16 @@
   padding-top: 1px;
 }
 
-li {
+.home_links {
   display: inline;
   padding: 20px;
   float: right;
   font-family: 'Roboto';
   font-weight: 700;
+  color: black;
 }
 
-li:hover {
+.home_links:hover {
   display: inline;
   padding: 20px;
   float: right;
@@ -68,4 +69,8 @@ footer {
 .fa.fa-copyright {
   padding-right: 15px;
   padding-bottom: 15px;
+}
+
+.footer_icons {
+  color: black;
 }
